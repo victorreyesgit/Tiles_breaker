@@ -31,3 +31,5 @@ Se instala con el icono de la manzana y se abre a pantalla completa, sin barra d
 
 Edita `index.html` en GitHub (icono del lapiz) y haz commit. Si hay internet, la app se actualiza sola al abrirla (puede hacer falta abrirla dos veces).
 Si anades o renombras archivos, anadelos tambien a la lista `FILES` de `sw.js`.
+
+App ID: `/vr-tiles_breaker` (manifest id, never change it)
